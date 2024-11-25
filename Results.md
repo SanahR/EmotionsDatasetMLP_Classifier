@@ -23,3 +23,17 @@ Your second tweet was:  i feel a bit dazed but so excited i am going to be so pr
 
 The KNN algorithm classified your tweet as:  joy
 The accuracy percentage of our KNN algorithm is:  76.4
+
+## Trial 3: 
+Your tweet was:  i feel so lousy but i shouldnt be focusing on me now
+
+The MLP algorithm classified your tweet as:  sadness
+The accuracy percentage of our MLP algorithm is:  83.15
+
+Your second tweet was:  i am running at an approximate minute pace which i feel is quite acceptable
+
+The KNN algorithm classified your tweet as:  joy
+The accuracy percentage of our KNN algorithm is:  76.4
+
+## Personal Findings: 
+I've ran this program quite a lot, especially when I was working out what parameters worked best, and I've seldomly seen the KNN classifier identify a more complex emotion like love. It typically only identifies joy and sadness. Perhaps in the future, I'll graph it out to see if this correlation is just in my head. 
