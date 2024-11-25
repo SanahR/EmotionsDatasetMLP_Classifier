@@ -12,3 +12,14 @@ The KNN algorithm classified your tweet as:  sadness
 The accuracy percentage of our KNN algorithm is:  76.4
 
 Since the emotions dataset is based off of semi-ambiguous tweets, there are several times when the classifiers can't detect sarcasm or irony, which definitely contributes to the low 80s barrier that neither of them can break through in terms of accuracy. 
+
+## Trial 2: 
+Your tweet was:  i just finished watching a korean drama secret garden omg and am feeling the way girls do after such shows a mixture of hope and a little tug of truth that says those romantic gestures only exist in films
+
+The MLP algorithm classified your tweet as:  love
+The accuracy percentage of our MLP algorithm is:  82.69999999999999
+
+Your second tweet was:  i feel a bit dazed but so excited i am going to be so protective she is not going to be let out until she is
+
+The KNN algorithm classified your tweet as:  joy
+The accuracy percentage of our KNN algorithm is:  76.4
